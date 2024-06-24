@@ -12,4 +12,4 @@
 <p>4) Запускаем скрипт, смотрим результат
 <p><img src='./images/recieved_messages_from_producer.png' alt='image3' />
 <p>5) Напишем скрипт для чтения данных на основе скрипта с git kafka (./src/consumer.py)
-<p><img src='recieved_messages_from_consumer' alt='image4' />
+<p><img src='recieved_messages_from_consumer.png' alt='image4' />
